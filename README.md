@@ -7,3 +7,5 @@ In the current version:
 	- Demonstrated project faisability.
 	
 	- Working syringe pump was made out of acrylic.
+	
+	- Demonstration video: [a link](https://youtu.be/rTeFqBZy3KE)
