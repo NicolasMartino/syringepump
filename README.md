@@ -1,7 +1,6 @@
-# Header 1 #
-Syringe pump with three fulcrum point.
+# Syringe pump with three fulcrum point #
 
-Project Goal: Make a reciprocating two syringe pump system that will provide pressurised liquid to actuate McKibben muscle.
+*Project Goal: Make a reciprocating two syringe pump system that will provide pressurised liquid to actuate McKibben muscle.*
 
 In the current version:
 
